@@ -1,0 +1,66 @@
+cChocoPackageInstaller adobereader
+{
+   Name     = "adobereader"
+   Version  = "2023.3.20201.1"
+   Source   = "https://github.com/szaki6666/choco"
+}
+cChocoPackageInstaller dwgtrueview
+{
+   Name     = "dwgtrueview"
+   Version  = "2024.24.3.61"
+   Source   = "https://github.com/szaki6666/choco"
+}
+cChocoPackageInstaller googlechrome
+{
+   Name     = "googlechrome"
+   Version  = "114.0.5735.134"
+   Source   = "https://github.com/szaki6666/choco"
+}
+cChocoPackageInstaller irfanview
+{
+   Name     = "irfanview"
+   Version  = "4.62"
+   Source   = "https://github.com/szaki6666/choco"
+}
+cChocoPackageInstaller javaruntime
+{
+   Name     = "javaruntime"
+   Version  = "8.0.231"
+   Source   = "https://github.com/szaki6666/choco"
+}
+cChocoPackageInstaller lenovo-thinkvantage-system-update
+{
+   Name     = "lenovo-thinkvantage-system-update"
+   Version  = "5.08.01.0009"
+   Source   = "https://github.com/szaki6666/choco"
+}
+cChocoPackageInstaller microsoft-teams.install
+{
+   Name     = "microsoft-teams.install"
+   Version  = "1.6.00.12455"
+   Source   = "https://github.com/szaki6666/choco"
+}
+cChocoPackageInstaller office365business
+{
+   Name     = "office365business"
+   Version  = "16501.20196"
+   Source   = "https://github.com/szaki6666/choco"
+}
+cChocoPackageInstaller firefox
+{
+   Name     = "firefox"
+   Version  = "114.0.1"
+   Source   = "https://github.com/szaki6666/choco"
+}
+cChocoPackageInstaller tightvnc
+{
+   Name     = "tightvnc"
+   Version  = "2.8.81"
+   Source   = "https://github.com/szaki6666/choco"
+}
+cChocoPackageInstaller uc
+{
+   Name     = "uc"
+   Version  = "4.21.1615"
+   Source   = "https://github.com/szaki6666/choco"
+}
