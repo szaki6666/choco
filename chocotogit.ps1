@@ -1,0 +1,11 @@
+choco download adobereader --internalize --version='2023.3.20201.1' --source=https://community.chocolatey.org/api/v2/
+choco download dwgtrueview --internalize --version='2024.24.3.61' --source=https://community.chocolatey.org/api/v2/
+choco download googlechrome --internalize --version='114.0.5735.134' --source=https://community.chocolatey.org/api/v2/
+choco download irfanview --internalize --version='4.62' --source=https://community.chocolatey.org/api/v2/
+choco download javaruntime --internalize --version='8.0.231' --source=https://community.chocolatey.org/api/v2/
+choco download lenovo-thinkvantage-system-update --internalize --version='5.08.01.0009' --source=https://community.chocolatey.org/api/v2/
+choco download microsoft-teams.install --internalize --version='1.6.00.12455' --source=https://community.chocolatey.org/api/v2/
+choco download office365business --internalize --version='16501.20196' --source=https://community.chocolatey.org/api/v2/
+choco download firefox --internalize --version='114.0.1' --source=https://community.chocolatey.org/api/v2/
+choco download tightvnc --internalize --version='2.8.81' --source=https://community.chocolatey.org/api/v2/
+choco download uc --internalize --version='4.21.1615' --source=https://community.chocolatey.org/api/v2/
